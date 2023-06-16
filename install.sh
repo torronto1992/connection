@@ -20,4 +20,6 @@ pip3 install requests
 sudo apt install -y unzip
 
 sudo apt install -y npm
-sudo npm install -g pm2
+npm install pm2 -g
+
+cd /home
